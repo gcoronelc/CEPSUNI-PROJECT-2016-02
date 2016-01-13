@@ -1,0 +1,6 @@
+Planificar un proyecto 
+según su especialidad.
+
+1.- Enunciado General
+2.- Requerimientos
+3.- Planificación
