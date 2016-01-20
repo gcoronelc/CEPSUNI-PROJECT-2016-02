@@ -1,0 +1,13 @@
+Caso 1
+--------------------------
+Crear el plan inicial para
+ensamblar una bicicleta.
+
+
+Caso 2
+---------------------------
+Crear el plan inicial para
+ir de vacaciones al cuzco.
+
+
+

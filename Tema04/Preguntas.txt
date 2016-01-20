@@ -1,0 +1,11 @@
+Pregunta 1
+----------
+¿Que pasa si se programa una tarea
+repetitiva y cae en un día feriado?
+
+Pregunta 2
+----------
+Como se cambia para que un en el dia
+feriado se programe para otro dia en
+la misma semana.
+
